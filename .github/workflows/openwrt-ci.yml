@@ -430,7 +430,6 @@ jobs:
           CONFIG_PACKAGE_ip-full=y
           # CONFIG_PACKAGE_ip-tiny is not set
           CONFIG_PACKAGE_libelf=y
-
           EOF
 
           #
